@@ -30,3 +30,10 @@ let a = "Zayn"
     console.log(typeof undefined); //undefined output should be undefined
     console.log( typeof null); // null output is object some says it is an error
     // null is object and undefined is a undefined datatype
+
+
+                //****************************Operation*******************//
+
+
+
+                
